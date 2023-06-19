@@ -5,6 +5,8 @@ aprendi adicionar Entity Framework Core a um aplicativo com API mínima, persist
 
 O Entity Framework Core é uma maneira fácil de gerenciar dados em aplicativos .NET. Ele é um mapeador relacional de objeto leve e orientado a objeto que fornece uma abstração de alto nível sobre o banco de dados.
 
+Desenvolvi o projeto baseado num CRUD de veículos.
+
 Tecnologias utilizadas:
 - Entity Framework Core
 - ASP.NET Core
