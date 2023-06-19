@@ -12,4 +12,5 @@ Tecnologias utilizadas:
 - ASP.NET Core
 - .NET 6
 - SQLite
+- Swagger
 
